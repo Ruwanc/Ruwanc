@@ -52,6 +52,7 @@
 
 - **🧾 Apache Hardening Script** — (https://github.com/Ruwanc/Apache-Hardening-Script)
 - **☁️ Application Log Backup Script** — (https://github.com/Ruwanc/Application-Log_Backup_Script)
+- **🚀 Terraform Learning** - (https://github.com/Ruwanc/Terraform-Learning)
 
 ---
 
